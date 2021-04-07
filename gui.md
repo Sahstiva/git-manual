@@ -8,13 +8,15 @@
 ####  Другие инструменты
 Существует огромное множество других графических инструментов для работы с Git, начиная от специализированных, выполняющих одну задачу, заканчивая «комбайнами» покрывающими всю функциональность Git. На официальном сайте Git поддерживается в актуальном состоянии список наиболее популярных оболочек.
 
-####   Git Kraken
+#### Git Kraken
 
 Legendary Git GUI client for Windows, Mac & Linux
-####  ##Intuitive UI/UX
+###### Intuitive UI/UX
 
 > "Being an enthusiast for intuitive and seamless UIs, I was immediately drawn to this tool. When you start diving deeper, you realize the remarkable user experience that the developers at Axosoft have created."
-> ###### Legendary Git Productivity
+
+###### Legendary Git Productivity
+
 > "When we're modifying, staging, and committing, not needing to use Terminal commands is very valuable for me and my time. Being able to focus on what matters most is why I use GitKraken."
 
 ![](img/git-kraken@2x.png)
