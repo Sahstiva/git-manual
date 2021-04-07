@@ -7,53 +7,57 @@
 ![](img/github_mac.png)
 ####Другие инструменты
 Существует огромное множество других графических инструментов для работы с Git, начиная от специализированных, выполняющих одну задачу, заканчивая «комбайнами» покрывающими всю функциональность Git. На официальном сайте Git поддерживается в актуальном состоянии список наиболее популярных оболочек.
+
 #### Git Kraken
+
 Legendary Git GUI client for Windows, Mac & Linux
 ######Intuitive UI/UX
->"Being an enthusiast for intuitive and seamless UIs, I was immediately drawn to this tool. When you start diving deeper, you realize the remarkable user experience that the developers at Axosoft have created."
-######Legendary Git Productivity
->"When we're modifying, staging, and committing, not needing to use Terminal commands is very valuable for me and my time. Being able to focus on what matters most is why I use GitKraken."
+
+> "Being an enthusiast for intuitive and seamless UIs, I was immediately drawn to this tool. When you start diving deeper, you realize the remarkable user experience that the developers at Axosoft have created."
+> ######Legendary Git Productivity
+> "When we're modifying, staging, and committing, not needing to use Terminal commands is very valuable for me and my time. Being able to focus on what matters most is why I use GitKraken."
 
 ![](img/git-kraken@2x.png)
 
 #### Smart Git
 
 ######Get your commit done.
->SmartGit is a graphical Git client with support for GitHub, Bitbucket and GitLab. SmartGit runs on Windows, macOS and Linux.
+
+> SmartGit is a graphical Git client with support for GitHub, Bitbucket and GitLab. SmartGit runs on Windows, macOS and Linux.
 
 ######One for All.
 This powerful, multi-platform Git client has the same intuitive user interface on Windows, macOS and Linux:
-* graphical merge and commit history
-* drag and drop commit reordering, merging or rebase
-* Use your SmartGit license on as many machines and operating systems you like.
+
+- graphical merge and commit history
+- drag and drop commit reordering, merging or rebase
+- Use your SmartGit license on as many machines and operating systems you like.
 
 ######Everything Included.
 No need to install and configure additional tools.
 
-*SmartGit includes*:
+_SmartGit includes_:
 
-* command line Git client (Windows, macOS)
-* Graphical Merge and Commit History
-* Git-Flow
-* SSH-client
-* File Compare
-* File Merge ("Conflict Solver")
+- command line Git client (Windows, macOS)
+- Graphical Merge and Commit History
+- Git-Flow
+- SSH-client
+- File Compare
+- File Merge ("Conflict Solver")
 
 ######Adopt to Your Needs and Workflows.
 A commercial Git client should support your work-flows. You can customize SmartGit in various ways:
 
-* Preferences for Merging, Rebasing
-* Layout of certain views,
-* External tools,
-* External or built-in Compare or Conflict Solver tools,
-* Keyboard shortcuts,
-* Toolbars,
-* Syntax coloring,
-* Light and dark themes
+- Preferences for Merging, Rebasing
+- Layout of certain views,
+- External tools,
+- External or built-in Compare or Conflict Solver tools,
+- Keyboard shortcuts,
+- Toolbars,
+- Syntax coloring,
+- Light and dark themes
 
 ![](img/smartgit@2x.png)
 
-***
+---
 
 [назад](./team.md "Вернуться назад")                                    [далее](./cli.md "Следующая страница")
-
