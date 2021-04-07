@@ -1,4 +1,4 @@
-##История Git
+## История Git
 
 <img align="right" src="img/linus.png">
 
